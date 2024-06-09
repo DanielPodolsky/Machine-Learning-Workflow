@@ -46,9 +46,13 @@ To clone and run this repository on your local machine, follow these steps:
 
 ### 4. Hyperparameter Tuning
 <img width="750" alt="Screenshot 2024-06-09 at 4 05 22" src="https://github.com/Lambodol76/Machine-Learning-Assignment-2/assets/78098754/b5775bfc-8aab-4ef4-8de8-5cc983c67717">
-<img width="453" alt="Screenshot 2024-06-09 at 4 06 01" src="https://github.com/Lambodol76/Machine-Learning-Assignment-2/assets/78098754/f1157dc7-2a5a-4d3a-a5ab-1feabb60e290">
+<img width="312" alt="Screenshot 2024-06-09 at 14 32 50" src="https://github.com/Lambodol76/Machine-Learning-Workflow/assets/78098754/aea4d104-8c1b-4fbf-8582-c7770fd2a674">
+<img width="772" alt="Screenshot 2024-06-09 at 14 33 01" src="https://github.com/Lambodol76/Machine-Learning-Workflow/assets/78098754/9982c4ee-7e9a-4371-8609-4a2bca0a46b1">
+<img width="293" alt="Screenshot 2024-06-09 at 14 33 27" src="https://github.com/Lambodol76/Machine-Learning-Workflow/assets/78098754/115093e7-e814-4be3-90a7-8569a135d80c">
+<img width="544" alt="Screenshot 2024-06-09 at 14 33 17" src="https://github.com/Lambodol76/Machine-Learning-Workflow/assets/78098754/609fb00f-39e4-4a1c-9300-98f1f311a369">
 
 ### Conclusion
+
 
 This project demonstrates the complete workflow for classifying wine types using multiple machine learning algorithms, including data exploration, feature engineering, model training, and evaluation. The best model is chosen based on the highest F1 Score using grid search with cross-validation.
 
