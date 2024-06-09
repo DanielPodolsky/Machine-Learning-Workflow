@@ -1,5 +1,5 @@
-# Machine Learning Assignment 2
-This repository contains the code and data for Machine Learning Assignment 2.
+# Machine Learning Workflow
+
 ## Introduction
 
 This project aims to classify wine types using machine learning algorithms. The workflow includes data exploration, preprocessing, feature engineering, model training, evaluation, and comparison of different classifiers.
