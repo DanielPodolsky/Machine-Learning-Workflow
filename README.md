@@ -16,7 +16,7 @@ To clone and run this repository on your local machine, follow these steps:
 
 1. Clone the repository
    ```bash
-   git clone https://github.com/Lambodol76/Machine-Learning-Assignment-2.git
+   git clone https://github.com/DanielPodolsky/Machine-Learning-Assignment-2.git
    cd Machine-Learning-Assignment-2
 
 2. Open it in Anaconda's Jupiter Notebook / VSCode.
